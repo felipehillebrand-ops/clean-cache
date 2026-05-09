@@ -115,11 +115,3 @@ Every `.profile` execution is logged in:
 
 Tested on:
 - Ubuntu
-- Linux Mint
-- Linux distributions using Snap and Electron-based apps
-
----
-
-# 📄 License
-
-MIT

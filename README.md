@@ -115,3 +115,11 @@ Every `.profile` execution is logged in:
 
 Tested on:
 - Ubuntu
+
+---
+
+## 👨‍💻 Author
+
+Felipe Hillebrand
+
+GitHub: https://github.com/felipehillebrand-ops
